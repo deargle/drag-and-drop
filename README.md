@@ -20,3 +20,7 @@ $.dragAndDrop({
 	draggables: $('.draggable')
 });        
 ```
+
+Again, no time to explain, but I used it to do this:
+
+![](drag-and-drop.gif)
